@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Udacity\CPP\Udacity-CPP\Foundations\Writing Multifile\03. CMake\build\CMakeFiles\0d891210ffe52308b37752b19fcf52ea\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5E75BBB3-4372-3792-8D99-EE92FFDA7E69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
