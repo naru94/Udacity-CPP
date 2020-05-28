@@ -18,8 +18,7 @@ int main()
             std::cout << &x[i][j] << ": i=" << i << ", j=" << j << std::endl;
         }
     }
-    long ans = pow(2, 32);
-    std::cout << "Answer: " << ans << std::endl;
+    
     // print execution time to console
     auto t2 = std::chrono::high_resolution_clock::now(); // stop time measurement
     auto duration = std::chrono::duration_cast<std::chrono::microseconds>(t2 - t1).count();
